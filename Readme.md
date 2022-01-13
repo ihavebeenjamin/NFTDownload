@@ -13,7 +13,7 @@ Script to download all the images from an opensea collection using the OpenSea A
 
 To run in docker (easiest / recommended mode) just clone the project, cd into it and run this command:
 
-    docker-compose run -e COLLECTION_NAME=boredapeyachtclub makevoid/opensea_downloader
+    docker-compose run -e COLLECTION_NAME=insertname ihavebeenjamin/NFTDownload
 
 Check the `output` directory which will contain the downloaded images.
 
